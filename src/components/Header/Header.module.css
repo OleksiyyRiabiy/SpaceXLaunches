@@ -1,0 +1,17 @@
+.Header {
+  height: 4rem;
+  background-color: #444646;
+  position: relative;
+}
+
+.LogoContainer {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 1rem;
+}
+
+.Image {
+  height: 75%;
+  width: 90%;
+}
